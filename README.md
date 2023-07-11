@@ -1,7 +1,10 @@
 # WindowsFormsApp2
 
 simple note-taking app with login and register system
+\
 просто приложение за водене на бележки със система за влизане и регистриране
+
+
 ![image](https://github.com/radev1924/WindowsFormsApp2/assets/26287242/af376e2a-e58c-4105-91f1-8f4de38b36b3)
 
 ![image](https://github.com/radev1924/WindowsFormsApp2/assets/26287242/884eb192-9fec-4354-837e-f002098a163b)
